@@ -1,1 +1,1 @@
-# Statistics-&-Probability
+# Statistics is a scientific approach to analys- ing numerical data in order to enable us to maximise our interpretation, understanding and use. This means that statistics helps us turn data into information; that is, data that have been interpreted, understood and are useful to the recipient.
