@@ -3,10 +3,16 @@
 Topics:
 
 Comparing Data.ipynb
+
 Data and Visualization.ipynb
+
 Hypothesis Testing.ipynb
+
 Probability.ipynb
+
 Sampling Distributions.ipynb
+
 Statistics Fundamentals.ipynb
+
 Why_You_Need_to_Use_Statistics_in_your_research
 
