@@ -1,4 +1,4 @@
-# Statistics is a scientific approach to analysing numerical data in order to enable us to maximise our interpretation, understanding and use. This means that statistics helps us turn data into information; that is, data that have been interpreted, understood and are useful to the recipient.
+Statistics is a scientific approach to analyzing numerical data in order to enable us to maximize our interpretation, understanding, and use. This means that statistics helps us turn data into information; that is, data that have been interpreted, understood, and is useful to the recipient.
 
 Topics:
 
